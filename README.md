@@ -61,6 +61,10 @@ Interfaz web hecha con Gradio: se escribe una explicación breve y el modelo dev
 >
 > Es un enlace temporal de Gradio: deja de funcionar cuando se detiene la ejecución en Colab y vence como máximo a la semana. Si no abre, se puede volver a lanzar siguiendo los pasos de la sección anterior.
 
+## Presentación del proyecto
+
+Link a la presentación en Canva: https://canva.link/xyrhw5ulvjw25bh
+
 ## Limitaciones
 
 - Corpus chico (689 respuestas) y test de solo 104 casos: las métricas tienen bastante incertidumbre.
